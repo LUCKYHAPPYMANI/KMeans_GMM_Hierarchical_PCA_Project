@@ -1,4 +1,5 @@
 *Clustering Algorithms and PCA*
+
 A Python machine learning project that implements and compares K-Means, Gaussian Mixture Model (GMM), and Agglomerative Hierarchical Clustering using the Scikit-learn Wine Recognition dataset. The project also applies Principal Component Analysis (PCA) for dimensionality reduction and visualization, evaluates clustering quality with multiple validation metrics, and provides an interactive Streamlit dashboard.
 📌 Project Overview
 The objective of this project is to explore whether unsupervised learning algorithms can identify groups of wine samples based on their chemical measurements. The three clustering algorithms are fitted using the same standardized feature data so their results can be compared under a consistent setup.
